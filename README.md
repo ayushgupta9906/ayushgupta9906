@@ -16,7 +16,7 @@ Web Developer at CHINGU | Former Intern IIT Roorkee and IIT Goa | Machine Learne
 - ❓ Ask me about anything related to Web dev, App Dev, Machine Learning/AI, UI/UX
   
 
-- ⚡ Fun fact: I earned my first bucks at age of 11 by selling lotus seeds.😂  
+- ⚡ Fun fact: 😂  
   
 
 - 📫 How to reach me ayush150152@gmail.com  
