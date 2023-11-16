@@ -24,7 +24,10 @@ Web Developer at CHINGU | Former Intern IIT Roorkee and IIT Goa | Machine Learne
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/ayush-gupta-3a93621b6/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="supunnanayakkara" height="30" width="40" /></a>
-<a href="(https://stackoverflow.com/users/22926451/ayush-gupta)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="supun-nanayakkara" height="30" width="40" /></a>
+<a href="https://twitter.com/LaSerX_1729" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+<a href="https://stackoverflow.com/users/22926451/ayush-gupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="supun-nanayakkara" height="30" width="40" /></a>
 <a href="https://www.instagram.com/laserx_1729/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="supun___lk" height="30" width="40" /></a>
 <br>
 
