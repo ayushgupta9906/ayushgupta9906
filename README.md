@@ -65,7 +65,7 @@
 - Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,docker,figma,xd,idea,vscode,postman,unity,ae,autocad,atom,androidstudio,blender" />
+   <img src="https://skillicons.dev/icons?i=git,github,docker,figma,xd,idea,vscode,postman,unity,ae,autocad,atom,androidstudio,blender" />
   </a>
 </p>
 
