@@ -4,12 +4,7 @@
   </a>
 </p>
 
-<div align="center">
-<img src="https://user-images.githubusercontent.com/98517363/227380175-923d450b-d608-45fd-8d23-ccc1d26eb83b.gif" align="center" style="width: 50%" />
-</div>  
-  
-
-### <div align="center">I'm Ayush gupta, 
+### <div align="center">I'm Ayush gupta👋
 <div align="center">Software Dveloper Intern at Essentia.dev | Open Source Project Contributor at CHINGU | Former Intern IIT Roorkee and IIT Goa | Machine Learner | UI/UX designer | Freelancer👨‍💻 </div>  
 <p align="center">I am fascinated by how computer technology 🌐 has brought changes to our lives that could never have been predicted;and my enthusiasm has perpetually developed since this time. And also I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️</p>
 - 🙍‍♂ This is my Personal portfolio Website.()
