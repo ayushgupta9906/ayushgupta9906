@@ -1,3 +1,8 @@
+<p align="center">
+  <a href="https://camo.githubusercontent.com/654c09bebf8fa25f9f33d1314f3f323e8e95a333f17064f2dfe71fe2fd909fd8/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4c4d634238586f7370475a4f3855517138372f67697068792e676966">
+    <img src="https://camo.githubusercontent.com/654c09bebf8fa25f9f33d1314f3f323e8e95a333f17064f2dfe71fe2fd909fd8/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4c4d634238586f7370475a4f3855517138372f67697068792e676966" alt="Your Image Alt Text">
+  </a>
+</p>
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/98517363/227380175-923d450b-d608-45fd-8d23-ccc1d26eb83b.gif" align="center" style="width: 50%" />
