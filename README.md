@@ -33,18 +33,18 @@
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <h3 align="left">Languages and Tools:</h3>
+- Frontend
+<p align="left">
+  <a href="https://skillicons.dev"> 
+    <img src="https://skillicons.dev/icons?i=ts html,css,js,react,nextjs,redux,tailwind,vue" />
+  </a>
+</p>
+
 
 - Backend
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=nodejs,py,flask,fastapi,express,nestjs" />
-  </a>
-</p>
-
-- Frontend
-<p align="left">
-  <a href="https://skillicons.dev"> 
-    <img src="https://skillicons.dev/icons?i=ts html,css,js,react,nextjs,redux,tailwind" />
   </a>
 </p>
 
