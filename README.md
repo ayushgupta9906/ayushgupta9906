@@ -36,7 +36,7 @@
 - Frontend
 <p align="left">
   <a href="https://skillicons.dev"> 
-    <img src="https://skillicons.dev/icons?i=ts html,css,js,react,nextjs,redux,tailwind,vue" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,redux,tailwind,vue" />
   </a>
 </p>
 
