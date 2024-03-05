@@ -86,5 +86,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayushgupta9906&show_icons=true&locale=en" alt="ayushgupta9906" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayushgupta9906&" alt="ayushgupta9906" /></p>
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ayushgupta9906)](https://git.io/streak-stats)
