@@ -19,7 +19,7 @@
 - ❓ Ask me about anything related to Web dev, App Dev, Machine Learning/AI, UI/UX
   
 
-- ⚡ Fun fact: 😂  
+- ⚡ Fun fact: I think I'm funny 🤷‍♂️
   
 
 - 📫 How to reach me ayush150152@gmail.com  
