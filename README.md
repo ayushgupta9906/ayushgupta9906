@@ -73,7 +73,7 @@
 </p>
 
 [![GitHub Streak](https://streak-stats.demolab.com/ayushgupta9906=DenverCoder1)](https://git.io/streak-stats)
-![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge&left_text=My%20Page%20Visitors)
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=ayushgupta9906.visitor-badge&left_text=My%20Page%20Visitors)
 <!-- 
 <a href="https://github.com/ayushgupta9906/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ayushgupta9906" />
