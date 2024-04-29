@@ -72,8 +72,8 @@
   </a>
 </p>
 
-[![GitHub Streak](https://streak-stats.demolab.com/ayushgupta9906=DenverCoder1)](https://git.io/streak-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayushgupta9906)](https://github.com/ayushgupta9906/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ayushgupta9906)](https://git.io/streak-stats)
+[![Ayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayushgupta9906)](https://github.com/ayushgupta9906/github-readme-stats)
 ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=ayushgupta9906.visitor-badge&left_text=My%20Page%20Visitors)
 <!-- 
 <a href="https://github.com/ayushgupta9906/github-readme-stats">
