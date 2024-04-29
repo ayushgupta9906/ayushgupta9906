@@ -72,9 +72,7 @@
   </a>
 </p>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ayushgupta9906)](https://git.io/streak-stats)
-[![Ayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayushgupta9906)](https://github.com/ayushgupta9906/github-readme-stats)
-[![GitHub Streak](https://streak-stats.demolab.com?user=ayushgupta9906&theme=dark&date_format=M%20j%5B%2C%20Y%5D&hide_longest_streak=true)](https://git.io/streak-stats)
+![ayushgupta9906's Stats](https://github-readme-stats.vercel.app/api?username=ayushgupta9906&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
 ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=ayushgupta9906.visitor-badge&left_text=My%20Page%20Visitors)
 <!-- 
 <a href="https://github.com/ayushgupta9906/github-readme-stats">
