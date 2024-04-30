@@ -14,7 +14,7 @@
 
 - 🔭 I’m currently working on these projects.[Click](https://ayushgupta9906.github.io/AyushGupta/). 
 
-- 🌱 I’m currently learning Web Development & Deep Learning
+- 🌱 I’m currently learning NextJs & Deep Learning
 
 - ❓ Ask me about anything related to Web dev, App Dev, Machine Learning/AI, UI/UX
   
