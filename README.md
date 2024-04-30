@@ -75,8 +75,6 @@
 ![ayushgupta9906's Stats](https://github-readme-stats.vercel.app/api?username=ayushgupta9906&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
 ![ayushgupta9906's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ayushgupta9906&theme=vue-dark&hide_border=false)
 ![ayushgupta9906's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushgupta9906&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
-
-![ayushgupta9906's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushgupta9906&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
 ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=ayushgupta9906.visitor-badge&left_text=My%20Page%20Visitors)
 <!-- 
 <a href="https://github.com/ayushgupta9906/github-readme-stats">
