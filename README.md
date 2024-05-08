@@ -74,32 +74,13 @@
 
 
 
-[![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=ayushgupta9906&&theme=xcode)](https://github.com/ayushgupta9906)
-
+![ayushgupta9906's Stats](https://github-readme-stats.vercel.app/api?username=ayushgupta9906&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
+![ayushgupta9906's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ayushgupta9906&theme=vue-dark&hide_border=false)
+![ayushgupta9906's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushgupta9906&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=ayushgupta9906.visitor-badge&left_text=My%20Page%20Visitors)
 <!-- 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=ritik-prabhat&show_icons=true&locale=en&theme=vue-dark" alt="Ritik-Prabhat" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ritik-prabhat&&theme=vue-dark" alt="ritik-prabhat" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ritik-prabhat&show_icons=true&locale=en&layout=compact&theme=vue-dark" alt="ritik-prabhat" /></p>
 -->
 
- GitHub Streak      |  GitHub Stats
-:-------------------------:|:-------------------------:
-![Ritik Prabhat GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ayushgupta9906&&theme=vue-dark) | ![Ritik Prabhat GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayushgupta9906&show_icons=true&locale=en&theme=vue-dark)
-
-
-
-<!-- 
-<a href="https://github.com/ayushgupta9906/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ayushgupta9906" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
-</a>
--->
-<!-- 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayushgupta9906&show_icons=true&locale=en&layout=compact" alt="ayushgupta9906" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayushgupta9906&show_icons=true&locale=en" alt="ayushgupta9906" /></p>
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ayushgupta9906)](https://git.io/streak-stats)
--->
