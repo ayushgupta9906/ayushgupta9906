@@ -1,9 +1,4 @@
-<div align="center">
-  <a href="https://camo.githubusercontent.com/654c09bebf8fa25f9f33d1314f3f323e8e95a333f17064f2dfe71fe2fd909fd8/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4c4d634238586f7370475a4f3855517138372f67697068792e676966">
-    <img src="https://camo.githubusercontent.com/654c09bebf8fa25f9f33d1314f3f323e8e95a333f17064f2dfe71fe2fd909fd8/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4c4d634238586f7370475a4f3855517138372f67697068792e676966" alt="Your Image Alt Text">
-  </a>
-</div>
-</p>
+
 
 ### <div align="center">Hi 👋, I'm Ayush Gupta
 <div align="center"> Project Manager at IIT Roorkee | Open Source Project Contributor at CHINGU | Former Intern IIT Roorkee and IIT Goa | Machine Learner | UI/UX designer | Freelancer👨‍💻 </div>  
