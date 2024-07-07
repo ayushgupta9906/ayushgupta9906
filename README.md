@@ -73,6 +73,19 @@
 ![ayushgupta9906's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ayushgupta9906&theme=vue-dark&hide_border=false)
 ![ayushgupta9906's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushgupta9906&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
 ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=ayushgupta9906.visitor-badge&left_text=My%20Page%20Visitors)
+
+## 📈 Statistics
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=ayushgupta9906&theme=darkhub">
+<br><br>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ayushgupta9906&theme=merko">
+</p>
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=ayushgupta9906&theme=chartreuse-dark&show_icons=true&include_all_commits=true&count_private=true"  display=block width=100% height=auto alt="1"></td>
+    
+   </tr>
+</table>
 <!-- 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=ritik-prabhat&show_icons=true&locale=en&theme=vue-dark" alt="Ritik-Prabhat" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ritik-prabhat&&theme=vue-dark" alt="ritik-prabhat" /></p>
