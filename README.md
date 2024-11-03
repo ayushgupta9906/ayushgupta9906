@@ -74,8 +74,9 @@
 ![ayushgupta9906's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushgupta9906&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
 ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=ayushgupta9906.visitor-badge&left_text=My%20Page%20Visitors)
 
-<iframe src="https://github.com/sponsors/ayushgupta9906/button" title="Sponsor ayushgupta9906" height="32" width="114" style="border: 0; border-radius: 6px;"></iframe>
-<iframe src="https://github.com/sponsors/ayushgupta9906/card" title="Sponsor ayushgupta9906" height="225" width="600" style="border: 0;"></iframe>
+## Support My Work
+
+If you'd like to support my projects, please consider sponsoring me on [GitHub Sponsors](https://github.com/sponsors/ayushgupta9906).
 
 ## 📈 Statistics
 <p align="center">
