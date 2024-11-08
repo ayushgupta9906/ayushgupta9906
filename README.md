@@ -67,6 +67,11 @@
   </a>
 </p>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/ayushgupta9906/ayushgupta9906/output/github-snake.svg" />
+</picture>
 
 
 ![ayushgupta9906's Stats](https://github-readme-stats.vercel.app/api?username=ayushgupta9906&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
