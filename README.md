@@ -73,6 +73,7 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/ayushgupta9906/ayushgupta9906/output/github-snake.svg" />
 </picture>
 
+![snake gif](https://github.com/ayushgupta9906/ayushgupta9906/blob/output/github-contribution-grid-snake.gif)
 
 ![ayushgupta9906's Stats](https://github-readme-stats.vercel.app/api?username=ayushgupta9906&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
 ![ayushgupta9906's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ayushgupta9906&theme=vue-dark&hide_border=false)
