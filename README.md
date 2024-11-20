@@ -68,7 +68,7 @@
 </p>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ayushgupta9906/ayushgupta9906/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ayushgupta9906/ayushgupta9906/blob/output/github-contribution-grid-snake.gif" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ayushgupta9906/ayushgupta9906/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/ayushgupta9906/ayushgupta9906/output/github-snake.svg" />
 </picture>
