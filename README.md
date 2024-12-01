@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [LaserX Clothing](https://laserxclothingstore.vercel.app/). 
 
-- 🌱 I’m currently learning NextJs & Deep Learning
+- 🌱 I’m currently learning NextJs
 
 - ❓ Ask me about anything related to Web dev, App Dev, Machine Learning/AI, UI/UX
   
