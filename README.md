@@ -4,10 +4,10 @@
 <div align="center">Intern at Lenskart | International TEEP Intern at YZU Taiwan | Software Product Designer at IIT Roorkee | Open Source Project Contributor | Former Intern IIT Roorkee and IIT Goa | Machine Learner | UI/UX designer | Freelancer👨‍💻 </div>  
 <p align="center">I am fascinated by how computer technology 🌐 has brought changes to our lives that could never have been predicted;and my enthusiasm has perpetually developed since this time. And also I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️</p>
 
-- 🙍‍♂ This is my Personal portfolio.[Click](https://ayushgupta9906.github.io/AyushGupta/). 
+- 🙍‍♂ This is my Personal [portfolio](https://ayushgupta9906.github.io/AyushGupta/). 
   
 
-- 🔭 I’m currently working on LaserX Clothing.[Click](https://laserxclothingstore.vercel.app/). 
+- 🔭 I’m currently working on [LaserX Clothing](https://laserxclothingstore.vercel.app/). 
 
 - 🌱 I’m currently learning NextJs & Deep Learning
 
