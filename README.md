@@ -7,7 +7,7 @@
 - 🙍‍♂ This is my Personal portfolio.[Click](https://ayushgupta9906.github.io/AyushGupta/). 
   
 
-- 🔭 I’m currently working on these projects.[Click](https://ayushgupta9906.github.io/AyushGupta/). 
+- 🔭 I’m currently working on LaserX Clothing.[Click](https://laserxclothingstore.vercel.app/). 
 
 - 🌱 I’m currently learning NextJs & Deep Learning
 
