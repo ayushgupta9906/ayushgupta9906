@@ -7,7 +7,7 @@
 - 🙍‍♂ Here's my Personal [Portfolio](https://laserx.vercel.app/). 
   
 
-- 🔭 I’m currently working on [LaserX Clothing](https://laserxclothingstore.vercel.app/). 
+- 🔭 I’m currently working on [OmniHub- A Git-like version control system for SQL databases](https://github.com/ayushgupta9906/OmniHub). 
 
 - ❓ Ask me about anything related to Web dev, App Dev, Machine Learning/AI, UI/UX
   
