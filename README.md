@@ -4,10 +4,10 @@
 <div align="center"> Ex SDE Intern @Lenskart |International TEEP Intern at YZU Taiwan | Software Product Designer at IIT Roorkee | Open Source Project Contributor | Former Intern IIT Roorkee and IIT Goa | Machine Learner | UI/UX designer | Freelancer👨‍💻 </div>  
 <p align="center">I am fascinated by how computer technology 🌐 has brought changes to our lives that could never have been predicted;and my enthusiasm has perpetually developed since this time. And also I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️</p>
 
-- 🙍‍♂ Here's my Personal [Portfolio](https://laserx.vercel.app/). 
+- 🙍‍♂ Here's my Personal [Portfolio](https://ayushdevv.vercel.app/). 
   
 
-- 🔭 I’m currently working on [OmniHub- A Git-like version control system for databases](https://bosdb.vercel.app). 
+- 🔭 I’m currently working on [BosDB- A Git-like version control system for databases](https://bosdb.vercel.app). 
 
 - ❓ Ask me about anything related to Web dev, App Dev, Machine Learning/AI, UI/UX
   
