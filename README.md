@@ -211,9 +211,17 @@ I enjoy building scalable full-stack applications, distributed systems, and back
 # 🐍 Contribution Graph
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg"/>
-  <img alt="Snake animation" src="github-snake.svg"/>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/ayushgupta9906/ayushgupta9906/output/github-snake-dark.svg">
+
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/ayushgupta9906/ayushgupta9906/output/github-snake.svg">
+
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/ayushgupta9906/ayushgupta9906/output/github-snake.svg">
 </picture>
 
 ---
