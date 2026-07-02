@@ -1,103 +1,253 @@
+<div align="center">
 
+# Hi 👋, I'm Ayush Gupta
 
-### <div align="center">Hi 👋, I'm Ayush Gupta
-<div align="center"> Ex SDE Intern @Lenskart |International TEEP Intern at YZU Taiwan | Software Product Designer at IIT Roorkee | Open Source Project Contributor | Former Intern IIT Roorkee and IIT Goa | Machine Learner | UI/UX designer | Freelancer👨‍💻 </div>  
-<p align="center">I am fascinated by how computer technology 🌐 has brought changes to our lives that could never have been predicted;and my enthusiasm has perpetually developed since this time. And also I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️</p>
+### Ex SDE Intern @ Lenskart | International TEEP Intern @ YZU Taiwan | Software Product Designer @ IIT Roorkee | Open Source Contributor | Former Intern @ IIT Roorkee & IIT Goa | Full Stack Developer | Java Backend Developer | Machine Learning Enthusiast | UI/UX Designer | Freelancer 👨‍💻
 
-- 🙍‍♂ Here's my Personal [Portfolio](https://ayushdevv.vercel.app/). 
-  
+<p align="center">
+I enjoy building scalable full-stack applications, distributed systems, and backend services using Java, Spring Boot, React, and Cloud technologies. Passionate about Open Source, Machine Learning, System Design, and creating products that solve real-world problems.
+</p>
 
-- 🔭 I’m currently working on [BosDB- A Git-like version control system for databases](https://bosdb.vercel.app). 
-
-- ❓ Ask me about anything related to Web dev, App Dev, Machine Learning/AI, UI/UX
-  
-
-- ⚡ Fun fact: I think I'm funny 🤷‍♂️
-  
-
-- 📫 How to reach me ayush150152@gmail.com  
-<br>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/ayush-gupta-3a93621b6/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="supunnanayakkara" height="30" width="40" /></a>
-<a href="https://twitter.com/LaSerX_1729" target="_blank">
+<a href="https://komarev.com/ghpvc/?username=ayushgupta9906">
+<img src="https://komarev.com/ghpvc/?username=ayushgupta9906&label=Profile%20Views&color=0e75b6&style=flat" />
 </a>
-<a href="https://stackoverflow.com/users/22926451/ayush-gupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="supun-nanayakkara" height="30" width="40" /></a>
-<a href="https://www.instagram.com/laserx_1729/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="supun___lk" height="30" width="40" /></a>
-<br>
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-- Frontend
+---
+
+## 🚀 About Me
+
+- 🌐 Portfolio: https://ayushdevv.vercel.app/
+- 🔭 Currently building **BosDB — Git-like Version Control System for Databases**
+- 🌱 Currently learning **Spring Boot, Microservices, Kubernetes, AWS, Kafka & System Design**
+- 💬 Ask me about **Java, Spring Boot, MERN Stack, React, Machine Learning, UI/UX, Databases**
+- 👨‍💻 Open Source Contributor
+- ⚡ Fun Fact: I think I'm funny 🤷‍♂️
+- 📫 Reach me at **ayush150152@gmail.com**
+
+---
+
+# 🌐 Connect With Me
+
 <p align="left">
-  <a href="https://skillicons.dev"> 
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,redux,tailwind,vue" />
-  </a>
+
+<a href="https://www.linkedin.com/in/ayush-gupta-3a93621b6/">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="https://github.com/ayushgupta9906">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+<a href="https://stackoverflow.com/users/22926451/ayush-gupta">
+<img src="https://skillicons.dev/icons?i=stackoverflow" />
+</a>
+
+<a href="https://www.instagram.com/laserx_1729/">
+<img src="https://skillicons.dev/icons?i=instagram" />
+</a>
+
 </p>
 
+---
 
-- Backend
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,py,flask,fastapi,express,nextjs" />
-  </a>
+# 💻 Languages
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=java,cpp,c,python,javascript,typescript,dart,html,css,sql,bash" />
+
 </p>
 
-- Database
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
-  </a>
+---
+
+# 🎨 Frontend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,redux,vue,vite,tailwind,bootstrap,materialui,sass" />
+
 </p>
 
-- Cloud Servers
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=azure,aws,firebase,cloudflare" />
-  </a>
+---
+
+# ⚙️ Backend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,fastapi,flask,nextjs,maven,gradle" />
+
 </p>
 
-- Tools
-<p align="left">
-  <a href="https://skillicons.dev">
-   <img src="https://skillicons.dev/icons?i=git,github,docker,figma,xd,idea,vscode,postman,unity,ae,autocad,atom,androidstudio,blender" />
-  </a>
+---
+
+# ☕ Java Full Stack
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=java,spring,maven,gradle,mysql,postgres,mongodb,redis,docker,kafka" />
+
 </p>
 
+<p>
+
+<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Spring%20MVC-6DB33F?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate"/>
+
+<img src="https://img.shields.io/badge/JPA-59666C?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/JWT-black?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/OAuth2-blue?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Microservices-red?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/WebSocket-blue?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger"/>
+
+<img src="https://img.shields.io/badge/OpenAPI-6BA539?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Mockito-black?style=for-the-badge"/>
+
+</p>
+
+---
+
+# 🗄️ Databases
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,firebase,supabase" />
+
+</p>
+
+---
+
+# ☁️ Cloud & DevOps
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,cloudflare,githubactions,vercel,netlify,nginx" />
+
+</p>
+
+<p>
+
+<img src="https://img.shields.io/badge/Amazon%20EC2-orange?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Amazon%20S3-orange?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/AWS%20Lambda-orange?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/ECS-orange?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/EKS-orange?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Jenkins-red?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana"/>
+
+<img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus"/>
+
+<img src="https://img.shields.io/badge/ELK%20Stack-black?style=for-the-badge"/>
+
+</p>
+
+---
+
+# 🤖 AI / Machine Learning
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,anaconda" />
+
+</p>
+
+---
+
+# 📱 Mobile Development
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,androidstudio" />
+
+</p>
+
+---
+
+# 🛠️ Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,eclipse,postman,figma,linux,blender,androidstudio" />
+
+</p>
+
+---
+
+# 📚 Currently Learning
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=spring,kafka,redis,kubernetes,aws" />
+
+</p>
+
+---
+
+# 🐍 Contribution Graph
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg"/>
+  <img alt="Snake animation" src="github-snake.svg"/>
 </picture>
 
+---
 
-![ayushgupta9906's Stats](https://github-readme-stats.vercel.app/api?username=ayushgupta9906&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
-![ayushgupta9906's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ayushgupta9906&theme=vue-dark&hide_border=false)
-![ayushgupta9906's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushgupta9906&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
+# 📊 GitHub Statistics
 
-![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=ayushgupta9906.visitor-badge&left_text=My%20Page%20Visitors)
+![](https://github-readme-stats.vercel.app/api?username=ayushgupta9906&theme=tokyonight&show_icons=true&count_private=true)
 
-## Support My Work
+![](https://github-readme-streak-stats.herokuapp.com/?user=ayushgupta9906&theme=tokyonight)
 
-If you'd like to support my projects, please consider sponsoring me on [GitHub Sponsors](https://github.com/sponsors/ayushgupta9906).
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushgupta9906&layout=compact&theme=tokyonight)
 
-## 📈 Statistics
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=ayushgupta9906&theme=darkhub">
-<br><br>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ayushgupta9906&theme=merko">
-</p>
-<table>
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=ayushgupta9906&theme=chartreuse-dark&show_icons=true&include_all_commits=true&count_private=true"  display=block width=100% height=auto alt="1"></td>
-    
-   </tr>
-</table>
-<!-- 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=ritik-prabhat&show_icons=true&locale=en&theme=vue-dark" alt="Ritik-Prabhat" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ritik-prabhat&&theme=vue-dark" alt="ritik-prabhat" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ritik-prabhat&show_icons=true&locale=en&layout=compact&theme=vue-dark" alt="ritik-prabhat" /></p>
--->
+---
 
+# 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=ayushgupta9906&theme=algolia&row=1&column=7)
+
+---
+
+# 📈 Activity Graph
+
+[![Ayush's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ayushgupta9906&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+# ☕ Support My Work
+
+If you like my projects, consider giving them a ⭐.
+
+You can also sponsor my Open Source work here:
+
+https://github.com/sponsors/ayushgupta9906
+
+---
+
+![](https://visitor-badge.laobi.icu/badge?page_id=ayushgupta9906.visitor-badge&left_text=Visitors)
