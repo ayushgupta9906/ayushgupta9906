@@ -8,9 +8,6 @@
 I enjoy building scalable full-stack applications, distributed systems, and backend services using Java, Spring Boot, React, and Cloud technologies. Passionate about Open Source, Machine Learning, System Design, and creating products that solve real-world problems.
 </p>
 
-<a href="https://komarev.com/ghpvc/?username=ayushgupta9906">
-<img src="https://komarev.com/ghpvc/?username=ayushgupta9906&label=Profile%20Views&color=0e75b6&style=flat" />
-</a>
 
 </div>
 
