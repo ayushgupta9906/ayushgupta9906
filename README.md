@@ -205,24 +205,6 @@ I enjoy building scalable full-stack applications, distributed systems, and back
 
 ---
 
-# 🐍 Contribution Graph
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/ayushgupta9906/ayushgupta9906/output/github-snake-dark.svg">
-
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/ayushgupta9906/ayushgupta9906/output/github-snake.svg">
-
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/ayushgupta9906/ayushgupta9906/output/github-snake.svg">
-</picture>
-
----
-
 # 📊 GitHub Statistics
 
 ![](https://github-readme-stats.vercel.app/api?username=ayushgupta9906&theme=tokyonight&show_icons=true&count_private=true)
@@ -230,18 +212,6 @@ I enjoy building scalable full-stack applications, distributed systems, and back
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ayushgupta9906&theme=tokyonight)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushgupta9906&layout=compact&theme=tokyonight)
-
----
-
-# 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=ayushgupta9906&theme=algolia&row=1&column=7)
-
----
-
-# 📈 Activity Graph
-
-[![Ayush's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ayushgupta9906&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
