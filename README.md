@@ -16,11 +16,8 @@ I enjoy building scalable full-stack applications, distributed systems, and back
 ## 🚀 About Me
 
 - 🌐 Portfolio: [Visit Portfolio](https://ayushdevv.vercel.app/)
-- 🔭 Currently building **BosDB — Git-like Version Control System for Databases**
+- 🔭 Currently building **Fitempire** & **BosDB — Git-like Version Control System for Databases**
 - 🌱 Currently learning **Spring Boot, Microservices, Kubernetes, AWS, Kafka & System Design**
-- 💬 Ask me about **Java, Spring Boot, MERN Stack, React, Machine Learning, UI/UX, Databases**
-- 👨‍💻 Open Source Contributor
-- ⚡ Fun Fact: I think I'm funny 🤷‍♂️
 - 📫 Reach me at **ayush150152@gmail.com**
 
 ---
