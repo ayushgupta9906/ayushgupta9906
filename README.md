@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm Ayush Gupta
 
-### Ex SDE Intern @ Lenskart | International TEEP Intern @ YZU Taiwan | Software Product Designer @ IIT Roorkee | Open Source Contributor | Former Intern @ IIT Roorkee & IIT Goa | Full Stack Developer | Java Backend Developer | Machine Learning Enthusiast | UI/UX Designer | Freelancer 👨‍💻
+### Ex SDE Intern @ Lenskart | International TEEP Intern @ YZU Taiwan | Software Product Designer @ IIT Roorkee | Open Source Contributor | Former Intern @ IIT Roorkee & IIT Goa | Full Stack Developer | Java Backend Developer
 
 <p align="center">
 I enjoy building scalable full-stack applications, distributed systems, and backend services using Java, Spring Boot, React, and Cloud technologies. Passionate about Open Source, Machine Learning, System Design, and creating products that solve real-world problems.
